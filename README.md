@@ -1,11 +1,17 @@
-"# Putiikki" 
+Putiikki is a 2D mobile game.
+
 
 Play the game: https://play.google.com/store/apps/details?id=com.LABGames.IoTgame&hl=en_US&gl=US
 
+
 Game design: Ria Gynther
+
 Art: Oona Rouhiainen
+
 Sounds: Teemu Ylämäki
+
 Programming and all Unity development: Katri Putkonen
+
 
 Images:
 
