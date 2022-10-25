@@ -7,6 +7,9 @@ The aim of the game is to help the customers of the clothing store as quickly an
 $~$
 
 Development time: 6 weeks
+- Unity
+- C#
+- Android
 - Game tutorial
 - Inventory
 - Shop
@@ -19,6 +22,8 @@ Development time: 6 weeks
 - Scores
 - Changing UI
 - Level goals
+- Game testing
+- Add to the Play Store
 
 $~$
 
