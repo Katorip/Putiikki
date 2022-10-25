@@ -18,6 +18,7 @@ Development time: 6 weeks
 - Settings
 - Scores
 - Changing UI
+- Level goals
 
 $~$
 
